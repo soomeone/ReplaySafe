@@ -1,0 +1,9 @@
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\bin\Debug\ReplaySafe.exe.config
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\bin\Debug\ReplaySafe.exe
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\bin\Debug\ReplaySafe.pdb
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.Properties.Resources.resources
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.csproj.GenerateResource.Cache
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.exe
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.pdb
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.Configuration.resources
