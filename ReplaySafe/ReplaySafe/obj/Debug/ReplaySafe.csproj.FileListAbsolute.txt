@@ -7,3 +7,7 @@ C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplayS
 C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.exe
 C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.pdb
 C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.Configuration.resources
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\bin\Debug\ReplaySafe.exe.manifest
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\bin\Debug\ReplaySafe.application
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.exe.manifest
+C:\Users\Mio\Documents\GitHub\ReplaySafe\ReplaySafe\ReplaySafe\obj\Debug\ReplaySafe.application
