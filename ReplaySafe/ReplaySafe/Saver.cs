@@ -73,8 +73,9 @@ namespace ReplaySafe
             }
         }
 
-        private void BackupFile(String File)
+        private async void BackupFile(String File)
         {
+            await Task.Delay(1000);
             // Copy a single file to the backup dir
             String filename = getFileName(File);
             String newpath = BackupPath + Path.DirectorySeparatorChar + filename;
